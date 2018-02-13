@@ -1,0 +1,1 @@
+C:\GestureUI\myotest\myotest\myotest.csproj;x86
